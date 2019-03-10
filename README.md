@@ -1,9 +1,3 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
-
 # First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -14,56 +8,10 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](translations/Translations.md).*
 
-[🇮🇳](translations/Translations.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[🇧🇬](translations/README.bg.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇳🇵](translations/README.np.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[🇲🇾](translations/README.my.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇵🇭](translations/README.tl.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+## First things first
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
@@ -143,7 +91,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+If you go to your repository (your fork) on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -156,10 +104,6 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
